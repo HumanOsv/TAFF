@@ -6,4 +6,4 @@ The TAFF pipeline has been designed in order to “condense” the Fukui functio
 
 g++ Main.cpp menu.cpp -o TAFF
 
-For more information please see Tutorial TAFF
+For more information please see Manual TAFF
