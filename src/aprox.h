@@ -708,7 +708,7 @@ void approach::Electronegativity(){	//-chemical potential.
 	cout <<"Electronegativity :\t\t"<<x<<endl;	
 }
 void approach::GlobalSoftness(float hard){	//1/global hardness
-	float s=(1/2)*(1/hard);
+	float s=1/(2*hard);
 	cout <<"Global Softness :\t\t"<<s<<endl;	
 	Electronegativity();
 }
